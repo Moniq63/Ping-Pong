@@ -1,0 +1,13 @@
+#result {
+  display: none;
+}
+.jumbotron {
+  background-color: orange;
+  text-align: center;
+}
+.sidenav {
+  height: 90%; /* Full-height: remove this if you want "auto" height */
+  width: 30%; /* Set the width of the sidebar */
+  background-color: green; 
+  float: left;
+  }
